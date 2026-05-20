@@ -5,7 +5,7 @@
 int main(int argc, const char *argv[]) {
 	if (argc != 2)
 	{
-	printf("digite o numero que deseja fatorar: ");
+	printf("Digite o nome do programa seguido do numero na qual deseja fatorar.");
 	}
 
 	else {
